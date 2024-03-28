@@ -1,0 +1,34 @@
+Problem-1
+----------
+Write a method that accepts a function where the function parameters can be 1..n 
+and return type is void and this method should retry the function 5 times if the 
+function throws an exception
+eg) 
+void test(int x, int ) {
+void test1(int x, int y, int z) {}
+void retry(???)
+test(1, 2), test1(3, 4, 5)
+
+Problem-2
+---------
+we have 2 collections Employee name with colums
+ 
+name
+age
+departmentid
+yoe (years of experience)
+another table department with columns
+ 
+departmentid
+departmentname
+location
+
+using lamdas can we find all employees with age in department greater than 30 years and have their deparment names as well 
+
+-------------------------------------------------------------------------------
+
+Note: ProblemOne.java has solution for Problem statement -1
+	  ProblemTwo.java has solution for Problem statement -2
+	  
+	  You can execute and can check output also by importing project in an IDE
+--------------------------------------------------------------------------------
